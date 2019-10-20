@@ -1,2 +1,2 @@
 # Parker
-Parking Spot Prediction (HackCBS)
+Parking Spot Detection (HackCBS)
